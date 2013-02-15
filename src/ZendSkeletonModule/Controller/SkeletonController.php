@@ -15,7 +15,8 @@ class SkeletonController extends AbstractActionController
 {
     public function indexAction()
     {
-        return array();
+        echo 'test';
+		return array();
     }
 
     public function fooAction()
